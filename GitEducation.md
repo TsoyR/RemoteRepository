@@ -11,7 +11,7 @@
 ## Ветки
 * *git checkout master* - возвращение на ветку master
 * *git branch _d ветка* - удаляем ветку
-* *git merge branch_name* - команда слияния текущей ветки с (branch_name)=)
+* *git merge branch_name* - команда слияния текущей ветки с (branch_name)
 
 ## Проверка репозитория
 * git --version - версия git 
