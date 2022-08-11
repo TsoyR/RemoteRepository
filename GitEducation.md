@@ -14,3 +14,5 @@
 
 * *git merge branch_name* - команда слияния текущей ветки с (branch_name)=)
 
+* *git clone <repo url>* - клонирование существующего репозитория 
+
