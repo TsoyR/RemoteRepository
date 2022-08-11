@@ -12,4 +12,5 @@
 * *git branch _d ветка* - удаляем ветку
 * *git log* - команда отображающая журнал коммитов
 
-* *gi merge branch_name* - команда слияния текущей ветки с (branch_name)
+* *git merge branch_name* - команда слияния текущей ветки с (branch_name)=)
+
